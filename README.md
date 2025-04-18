@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alimysoyang
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me yy1xdd0@gmail.com
+- 👀 I’m interested in Swift, SwiftUI & AI
+- 🌱 As an independent developer, I'm currently building [Silent Scribe](https://apps.apple.com/us/app/silent-scribe/id6743067448), a mobile AI app prioritizing user privacy and running entirely on-device.
 
 <!---
 alimysoyang/alimysoyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
