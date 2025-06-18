@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alimysoyang
+- 👋 Hi, I’m @MuMuY
 - 👀 I’m interested in C++, Objective-C, Swift, SwiftUI & AI(Local AI, MLX, TTS, STT...)
 - 🌱 As an independent developer, I'm currently building [Silent Scribe](https://apps.apple.com/us/app/silent-scribe/id6743067448) a mobile AI app prioritizing user privacy and running entirely on-device.![support platform](platforms_tiny_icon.png)
 
