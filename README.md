@@ -3,7 +3,7 @@
 - 🌱 As an independent developer, I'm currently building [Silent Scribe](https://apps.apple.com/us/app/silent-scribe/id6743067448) a mobile AI app prioritizing user privacy and running entirely on-device.![support platform](platforms_tiny_icon.png)
 
 ### iOS 
-[iOS.webm](https://github.com/user-attachments/assets/b4fb7e1b-8155-4f97-9112-53c9c67d6e3a)
+[ios.webm](https://github.com/user-attachments/assets/cd058b11-b1bf-4e13-b817-397d9363aee3)
 
 ### macOS
 [macOS.webm](https://github.com/user-attachments/assets/dade37bd-4516-49da-8537-f13e1520122d)
