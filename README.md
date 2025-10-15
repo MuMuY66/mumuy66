@@ -2,14 +2,8 @@
 - 👀 I’m interested in C++, Objective-C, Swift, SwiftUI & AI(Local AI, MLX, TTS, STT...)
 - 🌱 As an independent developer, I'm currently building [Silent Scribe](https://apps.apple.com/us/app/silent-scribe/id6743067448) a mobile AI app prioritizing user privacy and running entirely on-device.![support platform](platforms_tiny_icon.png)
 
-### Silent Scribe for iOS 
-[ios.webm](https://github.com/user-attachments/assets/cd058b11-b1bf-4e13-b817-397d9363aee3)
-
-### Silent Scribe for macOS
-[macOS.webm](https://github.com/user-attachments/assets/dade37bd-4516-49da-8537-f13e1520122d)
-
-### Silent Scribe for visionOS
-[visionOS.webm](https://github.com/user-attachments/assets/92e67a77-bfc2-4d98-b550-89074b863ede)
+|Silent Scribe|iOS|macOS|visionOS|
+|Version|1.2.4|1.3.0|1.0.0|
 
 <!---
 alimysoyang/alimysoyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
