@@ -26,7 +26,7 @@
 
 | Platform | iOS | macOS | visionOS |
 | :--- | :--- | :--- | :--- |
-| **Version** | 1.3.0 | 1.3.1 | 1.0.0 |
+| **Version** | 1.3.1 | 1.3.1 | 1.0.0 |
 
 [Product Showcase](https://github.com/user-attachments/assets/97cd1825-82ad-4d0d-9ac6-55db9e6d843f)
 
