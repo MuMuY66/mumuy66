@@ -80,5 +80,5 @@
 ## 🤝 Let's Collaborate
 
 - 🔗 GitHub: [MuMuY](https://github.com/MuMuY66)
-- Twitter (X): [@muyxai](https://x.com/muyxai?s=11)
+- 𝕏 [@muyxai](https://x.com/muyxai?s=11)
 - 🌐 [muyxai.com](https://muyxai.com)
